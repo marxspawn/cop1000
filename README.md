@@ -15,6 +15,7 @@ The schedule on this page will update throughout the semester with new assignmen
 
 Link              | Due by                | Topic
 ---               | ---                   | ---
+[Week 10](/week-10)| Wed, Nov 2, 11:59pm  | JSON APIs and Ajax
 [Week 9](/week-9) | Wed, Oct 26, 11:59pm  | OO and Functional Programming
 [Week 8](/week-8) | Wed, Oct 19, 11:59pm  | JavaScript Koans project
 [Week 7](/week-7) | Wed, Oct 12, 11:59pm  | Finish JavaScript

@@ -15,14 +15,14 @@ The schedule on this page will update throughout the semester with new assignmen
 
 Link              | Due by                | Topic
 ---               | ---                   | ---
-[Week 11](/week-11)| Wed, Nov 9, 11:59pm  | Start JS challenges
-[Week 10](/week-10)| Wed, Nov 2, 11:59pm  | JSON APIs and Ajax
-[Week 9](/week-9) | Wed, Oct 26, 11:59pm  | OO and Functional Programming
-[Week 8](/week-8) | Wed, Oct 19, 11:59pm  | JavaScript Koans project
-[Week 7](/week-7) | Wed, Oct 12, 11:59pm  | Finish JavaScript
-[Week 6](/week-6) | Wed, Oct 5, 11:59pm   | Basic JavaScript
-[Week 5](/week-5) | Wed, Sep 28, 11:59pm  | Project on web basics
-[Week 4](/week-4) | Wed, Sep 21, 11:59pm  | Bootstrap, jQuery
-[Week 3](/week-3) | Wed, Sep 14, 11:59pm  | HTML5 and CSS
-[Week 2](/week-2) | Wed, Sep 7, 11:59pm   | Using GitHub and submitting assignments
-[Week 1](/week-1) | Wed, Aug 31, 11:59pm  | Course logistics
+[Week 11](todos/week-11.md)| Wed, Nov 9, 11:59pm  | Start JS challenges
+[Week 10](todos/week-10.md)| Wed, Nov 2, 11:59pm  | JSON APIs and Ajax
+[Week 9](todos/week-9.md) | Wed, Oct 26, 11:59pm  | OO and Functional Programming
+[Week 8](todos/week-8.md) | Wed, Oct 19, 11:59pm  | JavaScript Koans project
+[Week 7](todos/week-7.md) | Wed, Oct 12, 11:59pm  | Finish JavaScript
+[Week 6](todos/week-6.md) | Wed, Oct 5, 11:59pm   | Basic JavaScript
+[Week 5](todos/week-5.md) | Wed, Sep 28, 11:59pm  | Project on web basics
+[Week 4](todos/week-4.md) | Wed, Sep 21, 11:59pm  | Bootstrap, jQuery
+[Week 3](todos/week-3.md) | Wed, Sep 14, 11:59pm  | HTML5 and CSS
+[Week 2](todos/week-2.md) | Wed, Sep 7, 11:59pm   | Using GitHub and submitting assignments
+[Week 1](todos/week-1.md) | Wed, Aug 31, 11:59pm  | Course logistics

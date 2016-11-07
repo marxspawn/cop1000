@@ -15,6 +15,7 @@ The schedule on this page will update throughout the semester with new assignmen
 
 Link              | Due by                | Topic
 ---               | ---                   | ---
+[Week 12](todos/week-12.md)| Wed, Nov 16, 11:59pm  | Finish JS challenges
 [Week 11](todos/week-11.md)| Wed, Nov 9, 11:59pm  | Start JS challenges
 [Week 10](todos/week-10.md)| Wed, Nov 2, 11:59pm  | JSON APIs and Ajax
 [Week 9](todos/week-09.md) | Wed, Oct 26, 11:59pm  | OO and Functional Programming

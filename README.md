@@ -15,6 +15,7 @@ The schedule on this page will update throughout the semester with new assignmen
 
 Link              | Due by                | Topic
 ---               | ---                   | ---
+[Week 13](todos/week-13.md)| Wed, Nov 23, 11:59pm  | Prepare for final project
 [Week 12](todos/week-12.md)| Wed, Nov 16, 11:59pm  | Finish JS challenges
 [Week 11](todos/week-11.md)| Wed, Nov 9, 11:59pm  | Start JS challenges
 [Week 10](todos/week-10.md)| Wed, Nov 2, 11:59pm  | JSON APIs and Ajax

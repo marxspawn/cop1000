@@ -15,6 +15,8 @@ The schedule on this page will update throughout the semester with new assignmen
 
 Link              | Due by                | Topic
 ---               | ---                   | ---
+[Week 15](todos/week-15.md)| Wed, Dec 14, 11:59pm  | Final Project Submission
+[Week 14](todos/week-14.md)| Mon, Dec 5, 11:59pm  | Final Project Proposal
 [Week 13](todos/week-13.md)| Wed, Nov 23, 11:59pm  | Prepare for final project
 [Week 12](todos/week-12.md)| Wed, Nov 16, 11:59pm  | Finish JS challenges
 [Week 11](todos/week-11.md)| Wed, Nov 9, 11:59pm  | Start JS challenges
